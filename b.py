@@ -1,3 +1,0 @@
-
-pirint("gggggit++");
-pirint("gggggit++");
