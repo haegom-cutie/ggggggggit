@@ -1,10 +1,9 @@
 ---
-name: 버그 리포팅!
+name: 버그 리포팅
 about: 발견한 버그에 대해 작성하는 템플릿 입니다.
-title: 'bug: '
+title: "bug: "
 labels: bug
-assignees: ''
-
+assignees: "snaag"
 ---
 
 ### 상황
